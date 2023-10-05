@@ -120,7 +120,7 @@ function MasterFlashCard(props: {
               className="w-full h-full float-none grayscale hover:grayscale-0"
               alt={props.english_singular + " image"}
             />
-            <div className="text-5xl border text-center text-yellow-500 font-black uppercase">
+            <div className="text-5xl border text-center text-yellow-500 font-black uppercase bg-slate-900">
               {props.english_singular.slice(2)}
             </div>
           </div>

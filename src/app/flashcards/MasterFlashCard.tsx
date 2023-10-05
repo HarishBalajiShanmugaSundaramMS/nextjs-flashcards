@@ -32,7 +32,7 @@ function MasterFlashCard(props: {
     <div className="py-8 pb-2 pl-8 mb-8 md:shrink-0 bg-black">
       {showSecondDiv && (
         <div
-          className="w-3/5 h-2/4 border-2 rounded-lg m-auto outline outline-black outline-offset-8 outline-4 bg-black grayscale hover:grayscale-0 overflow-hidden min-w-[500px] min-h-[100px] max-w-[800px] max-h-[3/5]"
+          className="w-3/5 h-2/4 border-2 rounded-lg m-auto outline outline-black outline-offset-8 outline-4 bg-black grayscale-0 hover:grayscale-0 overflow-hidden min-w-[500px] min-h-[100px] max-w-[800px] max-h-[3/5]"
           onClick={handleSecondDivClick}
         >
           <div className="flex w-96 h-64 ">
@@ -41,15 +41,16 @@ function MasterFlashCard(props: {
               className="w-full h-full float-none p-2"
               alt={props.english_singular + " image"}
             />
-            {/* <div className="bg-sky-700 text-center h-10 flex-initial w-2/4 rotate-90 absolute top-0 right-0 uppercase text-2xl ">{props.gender}</div> */}
-            <div className="h-32 rotate-90 w-40 font-black uppercase text-4xl text-slate-500 fixed top-10 left-80 right-0 align-bottom bottom-2">
-              {props.gender === "Feminine" ? (
-                <span className="text-pink-500">{props.gender}</span>
-              ) : props.gender === "Masculine" ? (
-                <span className="text-blue-500">{props.gender}</span>
-              ) : (
-                <span className="text-slate-500">{props.gender}</span>
-              )}
+            <div className="w-24 h-60 p-2 m-2	ml-4 flex-grow flex justify-center items-center uppercase text-4xl">
+              <div className="rotate-90 items-center justify-center text-slate-500 font-black right-10 ">
+                {props.gender === "Feminine" ? (
+                  <span className="text-pink-500">{props.gender}</span>
+                ) : props.gender === "Masculine" ? (
+                  <span className="text-blue-500">{props.gender}</span>
+                ) : (
+                  <span className="text-slate-500">{props.gender}</span>
+                )}
+              </div>
             </div>
           </div>
           <div>

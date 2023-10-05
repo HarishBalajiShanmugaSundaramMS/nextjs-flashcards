@@ -45,11 +45,11 @@ function MasterFlashCard(props: {
             {/* <div className="bg-sky-700 text-center h-10 flex-initial w-2/4 rotate-90 absolute top-0 right-0 uppercase text-2xl ">{props.gender}</div> */}
             <div className="h-32 rotate-90 w-40 font-black uppercase text-4xl text-slate-500 fixed top-10 left-80 right-0 align-bottom bottom-2">
               {props.gender === "Feminine" ? (
-                <span className="text-pink-400">{props.gender}</span>
+                <span className="text-pink-500">{props.gender}</span>
               ) : props.gender === "Masculine" ? (
-                <span className="text-blue-400">{props.gender}</span>
+                <span className="text-blue-500">{props.gender}</span>
               ) : (
-                <span className="text-slate-400">{props.gender}</span>
+                <span className="text-slate-500">{props.gender}</span>
               )}
             </div>
           </div>

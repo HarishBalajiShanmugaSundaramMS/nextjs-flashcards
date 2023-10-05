@@ -1,0 +1,152 @@
+[
+    {
+        "english_singular": "a Tiger",
+        "english_plural": "Tigers",
+        "german_singular": "der Tiger",
+        "german_plural": "die Tiger",
+        "tamil_singular": "புலி",
+        "tamil_plural": "புலிகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1477764250597-dffe9f601ae8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFuaW1hbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+        "english_singular": "a Horse",
+        "english_plural": "Horses",
+        "german_singular": "das Pferd",
+        "german_plural": "die Pferde",
+        "tamil_singular": "குதிரை",
+        "tamil_plural": "குதிரைகள்",
+        "gender": "Neutral",
+        "image_url": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG9yc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "an Elephant",
+        "english_plural": "Elephants",
+        "german_singular": "der Elefant",
+        "german_plural": "die Elefanten",
+        "tamil_singular": "யானை",
+        "tamil_plural": "யானைகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1631646109235-0d6b33cb3034?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxlbGVwaGFudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Duck",
+        "english_plural": "Ducks",
+        "german_singular": "die Ente",
+        "german_plural": "die Enten",
+        "tamil_singular": "வாத்து",
+        "tamil_plural": "வாத்துகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1580775404530-d559b4e32494?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGR1Y2t8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Snake",
+        "english_plural": "Snakes",
+        "german_singular": "die Schlange",
+        "german_plural": "die Schlangen",
+        "tamil_singular": "பாம்பு",
+        "tamil_plural": "பாம்புகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1638855370496-1ec25682adbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFNuYWtlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Woman",
+        "english_plural": "Women",
+        "german_singular": "die Frau",
+        "german_plural": "die Frauen",
+        "tamil_singular": "பெண்",
+        "tamil_plural": "பெண்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHdvbWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Family",
+        "english_plural": "Families",
+        "german_singular": "die Familie",
+        "german_plural": "die Familien",
+        "tamil_singular": "குடும்பம்",
+        "tamil_plural": "குடும்பங்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGZhbWlseXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Color",
+        "english_plural": "Colors",
+        "german_singular": "die Farbe",
+        "german_plural": "die Farben",
+        "tamil_singular": "நிறம்",
+        "tamil_plural": "நிறங்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29sb3J8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Fish",
+        "english_plural": "Fishes",
+        "german_singular": "der Fisch",
+        "german_plural": "die Fische",
+        "tamil_singular": "மீன்",
+        "tamil_plural": "மீன்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1625369708811-65ebfc5ca632?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEzfHxmaXNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "an Alarm Clock",
+        "english_plural": "Alarm Clocks",
+        "german_singular": "der Wecker",
+        "german_plural": "die Wecker",
+        "tamil_singular": "ஒலிக்கடிகை",
+        "tamil_plural": "ஒலிக்கடிகைகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1609775436218-78e51e5e61dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFsYXJtJTIwY2xvY2t8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+        "english_singular": "a Peacock",
+        "english_plural": "Peacocks",
+        "german_singular": "der Pfau",
+        "german_plural": "die Pfauen",
+        "tamil_singular": "மயில்",
+        "tamil_plural": "மயில்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1502031176098-2e91ccc16e59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVhY29ja3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Vegetable",
+        "english_plural": "Vegetables",
+        "german_singular": "das Gemüse",
+        "german_plural": "das Gemüse",
+        "tamil_singular": "காய்கறி",
+        "tamil_plural": "காய்கறிகள்",
+        "gender": "Neutral",
+        "image_url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "an Egg",
+        "english_plural": "Eggs",
+        "german_singular": "das Ei",
+        "german_plural": "die Eier",
+        "tamil_singular": "முட்டை",
+        "tamil_plural": "முட்டைகள்",
+        "gender": "Neutral",
+        "image_url": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWdnfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Eye",
+        "english_plural": "Eyes",
+        "german_singular": "das Auge",
+        "german_plural": "die Augen",
+        "tamil_singular": "கண்",
+        "tamil_plural": "கண்கள்",
+        "gender": "Neutral",
+        "image_url": "https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RXllfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "english_singular": "a Bike",
+        "english_plural": "Bikes",
+        "german_singular": "das Fahrrad",
+        "german_plural": "die Fahrräder",
+        "tamil_singular": "பைக்",
+        "tamil_plural": "பைக்குகள்",
+        "gender": "Neutral",
+        "image_url": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QmlrZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    }
+]

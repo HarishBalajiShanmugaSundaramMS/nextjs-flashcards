@@ -99,7 +99,7 @@ function MasterFlashCard(props: {
                   <td className="border border-slate-700 text-l">
                     {"the " + props.english_plural}
                   </td>
-                  <td className="border border-slate-700 text-l">
+                  <td className="border border-slate-700 text-l text-green-500">
                     {props.german_plural}
                   </td>
                 </tr>

@@ -29,7 +29,7 @@ function MasterFlashCard(props: {
   };
 
   return (
-    <div className="py-8 pb-2 pl-8 mb-8 md:shrink-0 bg-white">
+    <div className="py-8 pb-2 pl-8 mb-8 md:shrink-0 bg-black">
       {showSecondDiv && (
         <div
           className="w-3/5 h-2/4 border-2 rounded-lg m-auto outline outline-black outline-offset-8 outline-4 bg-black grayscale-0 hover:grayscale-0 overflow-hidden min-w-[500px] min-h-[100px] max-w-[800px] max-h-[3/5]"

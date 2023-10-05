@@ -76,13 +76,13 @@ function MasterFlashCard(props: {
                   </th>
                 </tr>
                 <tr>
-                  <td className="border border-slate-700 text-l">
+                  <td className="border border-slate-700 text-l text-white">
                     {props.tamil_singular}
                   </td>
-                  <td className="border border-slate-700 text-l">
+                  <td className="border border-slate-700 text-l text-white">
                     {"the | " + props.english_singular}
                   </td>
-                  <td className="border border-slate-700 text-l ">
+                  <td className="border border-slate-700 text-l text-white">
                     {props.german_singular.startsWith("die ")
                       ? props.german_singular.replace("die ", "die | eine ")
                       : props.german_singular.startsWith("der ")
@@ -93,13 +93,13 @@ function MasterFlashCard(props: {
                   </td>
                 </tr>
                 <tr>
-                  <td className="border border-slate-700 text-l">
+                  <td className="border border-slate-700 text-l text-white">
                     {props.tamil_plural}
                   </td>
-                  <td className="border border-slate-700 text-l">
+                  <td className="border border-slate-700 text-l text-white">
                     {"the " + props.english_plural}
                   </td>
-                  <td className="border border-slate-700 text-l text-green-500">
+                  <td className="border border-slate-700 text-l text-white">
                     {props.german_plural}
                   </td>
                 </tr>

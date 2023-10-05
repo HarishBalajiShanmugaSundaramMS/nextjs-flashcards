@@ -24,7 +24,7 @@ export default function Home() {
     return (
       <div
         key={card.english_singular}
-        className="bg-slate-950 m-0 min-w-[400px] min-h-[100px] sm:w-1/2	"
+        className="bg-slate-950 m-0 min-w-[400px] min-h-[100px] sm:w-1/2"
       >
         <MasterFlashCard Hindi_Singular={""} Hindi_Plural={""} {...card} />
       </div>
@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 p-0 m-0		">
+      <main className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 p-0 m-0	md:p-8 	">
         {flashCard}
       </main>
       <Footer />

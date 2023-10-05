@@ -113,7 +113,7 @@
         "english_singular": "a Vegetable",
         "english_plural": "Vegetables",
         "german_singular": "das Gemüse",
-        "german_plural": "das Gemüse",
+        "german_plural": "die Gemüse",
         "tamil_singular": "காய்கறி",
         "tamil_plural": "காய்கறிகள்",
         "gender": "Neutral",
@@ -140,10 +140,10 @@
         "image_url": "https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RXllfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
     },
     {
-        "english_singular": "a Bike",
-        "english_plural": "Bikes",
-        "german_singular": "das Fahrrad",
-        "german_plural": "die Fahrräder",
+        "english_singular": "a MotorBike",
+        "english_plural": "MotorBikes",
+        "german_singular": "das Motorrad",
+        "german_plural": "die Motorräder",
         "tamil_singular": "பைக்",
         "tamil_plural": "பைக்குகள்",
         "gender": "Neutral",

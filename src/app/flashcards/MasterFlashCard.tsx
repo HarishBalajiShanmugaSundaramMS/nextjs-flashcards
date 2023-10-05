@@ -48,7 +48,7 @@ function MasterFlashCard(props: {
                 ) : props.gender === "Masculine" ? (
                   <span className="text-blue-500">{props.gender}</span>
                 ) : (
-                  <span className="text-slate-500">{props.gender}</span>
+                  <span className="text-stone-500">{props.gender}</span>
                 )}
               </div>
             </div>

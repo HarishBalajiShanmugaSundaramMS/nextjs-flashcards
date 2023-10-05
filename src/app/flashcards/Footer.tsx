@@ -9,7 +9,15 @@ function Footer() {
   return (
     <footer className="bg-slate-900	text-stone-500 py-2 text-center fixed bottom-0 left-0 w-full ">
       <div className="flex">
-        <BsGithub className="basis-1/4 w-6 h-6 hover:fill-yellow-500 hover:animate-jump"></BsGithub>
+        <BsGithub
+          className="basis-1/4 w-6 h-6 hover:fill-yellow-500 hover:animate-jump"
+          onClick={() => {
+            window.open(
+              "https://github.com/HarishBalajiShanmugaSundaramMS/nextjs-flashcards",
+              "_blank"
+            );
+          }}
+        ></BsGithub>
         <BsLinkedin
           className="basis-1/4 w-6 h-6 hover:fill-yellow-500 hover:animate-jump"
           onClick={() => {

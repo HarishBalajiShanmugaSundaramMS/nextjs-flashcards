@@ -42,7 +42,10 @@ function MasterFlashCard(props: {
               alt={props.english_singular + " image"}
             />
             <div className="w-24 h-60 p-2 m-2	ml-4 flex-grow flex justify-center items-center uppercase text-4xl">
-              <div className="rotate-90 items-center justify-center text-slate-500 font-black right-10 ">
+              <div
+                title="Gender"
+                className="rotate-90 items-center justify-center text-slate-500 font-black right-10"
+              >
                 {props.gender === "Feminine" ? (
                   <span className="text-pink-500">{props.gender}</span>
                 ) : props.gender === "Masculine" ? (
@@ -117,7 +120,7 @@ function MasterFlashCard(props: {
           >
             <img
               src={props.image_url}
-              className="w-full h-full float-none grayscale hover:grayscale-0"
+              className="float-none grayscale hover:grayscale-0 object-fill"
               alt={props.english_singular + " image"}
             />
             <div className="text-5xl border text-center text-yellow-500 font-black uppercase bg-slate-900">

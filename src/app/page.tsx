@@ -8,7 +8,7 @@ import Header from "./flashcards/Header";
 
 export default function Home() {
   useEffect(() => {
-    document.title = "🂺 BrainCards";
+    document.title = "BrainCards";
   }, []);
 
   Data.sort(function (a, b) {

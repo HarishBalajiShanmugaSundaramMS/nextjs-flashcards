@@ -7,7 +7,8 @@
         "tamil_singular": "புலி",
         "tamil_plural": "புலிகள்",
         "gender": "Masculine",
-        "image_url": "https://images.unsplash.com/photo-1477764250597-dffe9f601ae8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFuaW1hbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60"
+        "image_url": "https://images.unsplash.com/photo-1477764250597-dffe9f601ae8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFuaW1hbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "tags": ["animals", "wild animals"]
     },
     {
         "english_singular": "a Horse",
@@ -608,5 +609,345 @@
         "tamil_plural": "",
         "gender": "",
         "image_url": "https://images.unsplash.com/photo-1612126313662-50d05b497b8a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG9zdHJpY2h8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "a Shampoo",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://plus.unsplash.com/premium_photo-1661380399670-eae77371bc65?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2hhbXBvb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Television",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHZ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Money",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1597824707484-9c3a77c8c195?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGdlbGQlMjBldXJvfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "An Avocado",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1601039641847-7857b994d704?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Prawn",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1629131148968-cc429c4b0ed3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJhd258ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Honey",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1613548058193-1cd24c1bebcf?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvbmV5fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Milk",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1602153508753-4ace888c10a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWlsa3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Pineapple",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://plus.unsplash.com/premium_photo-1661311944974-b5d24554c2c5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBpbmVhcHBsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Potato",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1578594640334-b71fbed2a406?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFBvdGF0b3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Tomato",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1616169775462-cb802f51d825?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHRvbWF0b2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Carrot",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2Fycm90fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "an Onion",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1578907814239-d2654ba61616?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG9uaW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Video Game",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlkZW8lMjBnYW1lfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Matchbox",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1629573010718-5a4a1aea6c23?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWF0Y2hib3h8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Butterfly",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1545310834-cd6a8a0884b8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJ1dHRlcmZseXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Candle",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1561212856-44e9bae482aa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": ""
+    },
+    {
+        "english_singular": "a Scorpion",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1580975003637-88e37b2f7b3b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2NvcnBpb258ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "an Housefly",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1516793985388-6155f13d54ee?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmxpZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Comic Book",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1628426912206-d88e22da5c76?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbWljc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "an Excavator",
+        "english_plural": "",
+        "german_singular": "der Bagger",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1580901369227-308f6f40bdeb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXhjYXZhdG9yfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Traffic Light",
+        "english_plural": "",
+        "german_singular": "die Ampel",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1581677641984-cf14ca58c5ee?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJhZmZpYyUyMGxpZ2h0fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "an Ant",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1588470045344-4393b295297c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QW50fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "an Astronaut",
+        "english_plural": "",
+        "german_singular": "der Astronaut",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1494022299300-899b96e49893?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFzdHJvbmF1dHxlbnwwfHwwfHx8MA%3D%3D"
     }
 ]

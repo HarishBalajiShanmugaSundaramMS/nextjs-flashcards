@@ -34,9 +34,11 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 p-0 m-0	md:p-8 bg-slate-950	">
+      <div >
+      <main className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 p-0 m-0	md:p-8 bg-slate-950">
         {flashCard}
       </main>
+      </div>
       <Footer />
     </>
   );

@@ -578,7 +578,7 @@
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": "https://plus.unsplash.com/premium_photo-1661844659087-1386ef4482da?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpbXBhbnplfGVufDB8fDB8fHww"
+        "image_url": "https://images.unsplash.com/photo-1632471445366-0656a36dd571?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoaW1wfGVufDB8fDB8fHww"
     },
     {
         "english_singular": "a Rhino",
@@ -611,34 +611,34 @@
         "image_url": "https://images.unsplash.com/photo-1612126313662-50d05b497b8a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG9zdHJpY2h8ZW58MHx8MHx8fDA%3D"
     },
     {
-        "english_singular": "",
+        "english_singular": "a Church",
         "english_plural": "",
         "german_singular": "",
         "german_plural": "",
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": ""
+        "image_url": "https://images.unsplash.com/photo-1477672680933-0287a151330e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNodXJjaHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-        "english_singular": "",
+        "english_singular": "a Scissor",
         "english_plural": "",
         "german_singular": "",
         "german_plural": "",
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": ""
+        "image_url": "https://images.unsplash.com/photo-1634225109865-7a7b6e4ef85c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNjaXNzb3JzfGVufDB8fDB8fHww"
     },
     {
-        "english_singular": "",
-        "english_plural": "",
+        "english_singular": "a Ticket",
+        "english_plural": "Tickets",
         "german_singular": "",
         "german_plural": "",
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": ""
+        "image_url": "https://plus.unsplash.com/premium_photo-1684407617372-106ebb96091e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGlja2V0fGVufDB8fDB8fHww"
     },
     {
         "english_singular": "a Shampoo",
@@ -801,14 +801,14 @@
         "image_url": "https://images.unsplash.com/photo-1561212856-44e9bae482aa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZGxlfGVufDB8fDB8fHww"
     },
     {
-        "english_singular": "",
-        "english_plural": "",
+        "english_singular": "a Cup",
+        "english_plural": "Cups",
         "german_singular": "",
         "german_plural": "",
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": ""
+        "image_url": "https://plus.unsplash.com/premium_photo-1668972393852-4c1adf9687c3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3VwfGVufDB8fDB8fHww"
     },
     {
         "english_singular": "an Headphone",
@@ -838,7 +838,7 @@
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": "https://images.unsplash.com/photo-1534105202621-4233721dcaff?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BpZGVyfGVufDB8fDB8fHww"
+        "image_url": "https://images.unsplash.com/photo-1611763806287-7f9858f4da69?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHNwaWRlcnxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
         "english_singular": "a Lock",
@@ -878,7 +878,7 @@
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D"
+        "image_url": "https://images.unsplash.com/photo-1592890288564-76628a30a657?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
     },
     {
         "english_singular": "a Scorpion",
@@ -949,5 +949,55 @@
         "tamil_plural": "",
         "gender": "",
         "image_url": "https://images.unsplash.com/photo-1494022299300-899b96e49893?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFzdHJvbmF1dHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Supermarket",
+        "english_plural": "Supermarkets",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1540340061722-9293d5163008?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHN1cGVybWFya2V0fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Newspaper",
+        "english_plural": "Newspapers",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3c3BhcGVyfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Speaker",
+        "english_plural": "",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3BlYWtlcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Restaurant",
+        "english_plural": "Restaurants",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://images.unsplash.com/photo-1592861956120-e524fc739696?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJlc3RhdXJlbnR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Library",
+        "english_plural": "Libraries",
+        "german_singular": "",
+        "german_plural": "",
+        "tamil_singular": "",
+        "tamil_plural": "",
+        "gender": "",
+        "image_url": "https://plus.unsplash.com/premium_photo-1664300897489-fd98eee64faf?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGlicmFyeXxlbnwwfHwwfHx8MA%3D%3D"
     }
 ]

@@ -711,16 +711,6 @@
         "image_url": "https://images.unsplash.com/photo-1602153508753-4ace888c10a0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWlsa3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-        "english_singular": "a Pineapple",
-        "english_plural": "",
-        "german_singular": "",
-        "german_plural": "",
-        "tamil_singular": "",
-        "tamil_plural": "",
-        "gender": "",
-        "image_url": "https://plus.unsplash.com/premium_photo-1661311944974-b5d24554c2c5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBpbmVhcHBsZXxlbnwwfHwwfHx8MA%3D%3D"
-    },
-    {
         "english_singular": "a Potato",
         "english_plural": "",
         "german_singular": "",
@@ -778,7 +768,7 @@
         "tamil_singular": "",
         "tamil_plural": "",
         "gender": "",
-        "image_url": "https://images.unsplash.com/photo-1629573010718-5a4a1aea6c23?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWF0Y2hib3h8ZW58MHx8MHx8fDA%3D"
+        "image_url": "https://images.unsplash.com/photo-1629573005892-48bdf2b5a462?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWF0Y2hib3h8ZW58MHx8MHx8fDA%3D"
     },
     {
         "english_singular": "a Butterfly",
@@ -932,12 +922,12 @@
     },
     {
         "english_singular": "an Ant",
-        "english_plural": "",
-        "german_singular": "",
-        "german_plural": "",
+        "english_plural": "Ants",
+        "german_singular": "die Ameise",
+        "german_plural": "die Ameisen",
         "tamil_singular": "",
         "tamil_plural": "",
-        "gender": "",
+        "gender": "Feminine",
         "image_url": "https://images.unsplash.com/photo-1588470045344-4393b295297c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QW50fGVufDB8fDB8fHww"
     },
     {
@@ -999,5 +989,345 @@
         "tamil_plural": "",
         "gender": "",
         "image_url": "https://plus.unsplash.com/premium_photo-1664300897489-fd98eee64faf?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGlicmFyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Coconut",
+        "english_plural": "Coconuts",
+        "german_singular": "die Kokosnuss",
+        "german_plural": "Kokosnüsse",
+        "tamil_singular": "தேங்காய்",
+        "tamil_plural": "தேங்காய்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1580984969071-a8da5656c2fb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvY29udXR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Banana",
+        "english_plural": "Bananas",
+        "german_singular": "die Banane",
+        "german_plural": "Bananen",
+        "tamil_singular": "வாழைக்காய்",
+        "tamil_plural": "வாழைக்காய்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1605666807892-8c11d020bede?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhbmFuYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Mango",
+        "english_plural": "Mangos",
+        "german_singular": "die Mango",
+        "german_plural": "Mangos",
+        "tamil_singular": "மாம்பழம்",
+        "tamil_plural": "மாம்பழங்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1715603803212-4cd59ae383fb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI3fHxtYW5nb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Grape",
+        "english_plural": "Grapes",
+        "german_singular": "die Traube",
+        "german_plural": "Trauben",
+        "tamil_singular": "திராட்சை",
+        "tamil_plural": "திராட்சைகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1515778767554-42d4b373f2b3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JhcGVzfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "an Orange",
+        "english_plural": "Oranges",
+        "german_singular": "die Orange",
+        "german_plural": "Orangen",
+        "tamil_singular": "ஆரஞ்சு",
+        "tamil_plural": "ஆரஞ்சுகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1549888834-3ec93abae044?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fG9yYW5nZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Pineapple",
+        "english_plural": "Pineapples",
+        "german_singular": "die Ananas",
+        "german_plural": "Ananas",
+        "tamil_singular": "வாழைப்பழம்",
+        "tamil_plural": "வாழைப்பழங்கள்",
+        "gender": "Feminine",
+        "image_url": "https://plus.unsplash.com/premium_photo-1661311944974-b5d24554c2c5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBpbmVhcHBsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Watermelon",
+        "english_plural": "Watermelons",
+        "german_singular": "die Wassermelone",
+        "german_plural": "Wassermelonen",
+        "tamil_singular": "தண்ணீர்பழம்",
+        "tamil_plural": "தண்ணீர்பழங்கள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1652031552021-50bcc01121a7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdhdGVybWVsb258ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Papaya",
+        "english_plural": "Papayas",
+        "german_singular": "die Papaya",
+        "german_plural": "Papayas",
+        "tamil_singular": "பப்பாளி",
+        "tamil_plural": "பப்பாளிகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1581375383680-7101dc5cb5f4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBhcGF5YXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Dog",
+        "english_plural": "Dogs",
+        "german_singular": "der Hund",
+        "german_plural": "Hunde",
+        "tamil_singular": "நாய்",
+        "tamil_plural": "நாய்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZG9nfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Lion",
+        "english_plural": "Lions",
+        "german_singular": "der Löwe",
+        "german_plural": "Löwen",
+        "tamil_singular": "சிங்கம்",
+        "tamil_plural": "சிங்கங்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxpb258ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Rabbit",
+        "english_plural": "Rabbits",
+        "german_singular": "das Kaninchen",
+        "german_plural": "Kaninchen",
+        "tamil_singular": "முயல்",
+        "tamil_plural": "முயல்கள்",
+        "gender": "Neuter",
+        "image_url": "https://images.unsplash.com/photo-1468190919318-dda40b332156?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHJhYmJpdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Nurse",
+        "english_plural": "Nurses",
+        "german_singular": "Krankenschwester",
+        "german_plural": "Krankenschwestern",
+        "tamil_singular": "நர்ச்",
+        "tamil_plural": "நர்ச்கள்",
+        "gender": "Feminine",
+        "image_url": "https://plus.unsplash.com/premium_photo-1682141167789-d6b26632bb13?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fG51cnNlfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Chef",
+        "english_plural": "Chefs",
+        "german_singular": "der Koch",
+        "german_plural": "Köche",
+        "tamil_singular": "சேப்",
+        "tamil_plural": "சேப்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1659354219145-dedd2324698e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoZWYlMjBtYWxlfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Knife",
+        "english_plural": "Knives",
+        "german_singular": "das Messer",
+        "german_plural": "Messer",
+        "tamil_singular": "கத்தி",
+        "tamil_plural": "கத்திகள்",
+        "gender": "Neuter",
+        "image_url": "https://images.unsplash.com/photo-1593618523725-c22aa27d353d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGtuaWZlfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Spoon",
+        "english_plural": "Spoons",
+        "german_singular": "der Löffel",
+        "german_plural": "Löffel",
+        "tamil_singular": "மதிலி",
+        "tamil_plural": "மதிலிகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1560329649-c952ee843f92?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHNwb29ufGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Fork",
+        "english_plural": "Forks",
+        "german_singular": "die Gabel",
+        "german_plural": "Gabeln",
+        "tamil_singular": "கத்தி",
+        "tamil_plural": "கத்திகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1648201476077-dd98e243f94e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGZvcmt8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Plate",
+        "english_plural": "Plates",
+        "german_singular": "der Teller",
+        "german_plural": "Teller",
+        "tamil_singular": "தட்டு",
+        "tamil_plural": "தட்டுகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1534273006427-1686266049b7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHBsYXRlfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Pot",
+        "english_plural": "Pots",
+        "german_singular": "der Topf",
+        "german_plural": "Töpfe",
+        "tamil_singular": "கடாயை",
+        "tamil_plural": "கடாய்கள்",
+        "gender": "Masculine",
+        "image_url": "https://plus.unsplash.com/premium_photo-1716476989438-197d10e7a620?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG90fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Pan",
+        "english_plural": "Pans",
+        "german_singular": "die Pfanne",
+        "german_plural": "Pfannen",
+        "tamil_singular": "கடை",
+        "tamil_plural": "கடைகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1624031000828-dba1b7a3e4ce?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGFufGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a CuttingBoard",
+        "english_plural": "CuttingBoards",
+        "german_singular": "das Schneidebrett",
+        "german_plural": "die Schneidebretter",
+        "tamil_singular": "கட்டிங் போர்டு",
+        "tamil_plural": "கட்டிங் போர்டுகள்",
+        "gender": "Neuter",
+        "image_url": "https://images.unsplash.com/photo-1624811533744-f85d5325d49c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3V0dGluZyUyMGJvYXJkfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Grater",
+        "english_plural": "Graters",
+        "german_singular": "die Reibe",
+        "german_plural": "Reiben",
+        "tamil_singular": "துருவி",
+        "tamil_plural": "துருவிகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1662041486963-7e0ad12f59ce?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JhdGVyfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Whisk",
+        "english_plural": "Whisks",
+        "german_singular": "der Schneebesen",
+        "german_plural": "Schneebesen",
+        "tamil_singular": "விஸ்க்",
+        "tamil_plural": "விஸ்குகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1635177988023-47fa03a0c594?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdoaXNrfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Lipstick",
+        "english_plural": "Lipsticks",
+        "german_singular": "der Lippenstift",
+        "german_plural": "die Lippenstifte",
+        "tamil_singular": "லிப்ப்ஸ்டிக்",
+        "tamil_plural": "லிப்ப்ஸ்டிக்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1611605472181-7962c1c85ed5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGxpcHN0aWNrfGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Lip",
+        "english_plural": "Lips",
+        "german_singular": "die Lippe",
+        "german_plural": "die Lippen",
+        "tamil_singular": "உதடு",
+        "tamil_plural": "உதடுகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1629734139676-06721d21fe03?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxsaXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Head",
+        "english_plural": "Heads",
+        "german_singular": "der Kopf",
+        "german_plural": "die Köpfe",
+        "tamil_singular": "தலை",
+        "tamil_plural": "தலைகள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1554533899-787ef890e98f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGhlYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Hand",
+        "english_plural": "Hands",
+        "german_singular": "die Hand",
+        "german_plural": "die Hände",
+        "tamil_singular": "கை",
+        "tamil_plural": "கைகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1556848527-f7c548b972b2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbmR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Leg",
+        "english_plural": "Legs",
+        "german_singular": "das Bein",
+        "german_plural": "die Beine",
+        "tamil_singular": "காலு",
+        "tamil_plural": "கால்கள்",
+        "gender": "Neuter",
+        "image_url": "https://images.unsplash.com/photo-1546824034-b86974ff36f9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGxlZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "an Ear",
+        "english_plural": "Ears",
+        "german_singular": "das Ohr",
+        "german_plural": "die Ohren",
+        "tamil_singular": "காது",
+        "tamil_plural": "காதுகள்",
+        "gender": "Neuter",
+        "image_url": "https://images.unsplash.com/photo-1560577938-a5ed9b19fe12?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGVhcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "english_singular": "a Surgery",
+        "english_plural": "Surgeries",
+        "german_singular": "die Operation",
+        "german_plural": "die Operationen",
+        "tamil_singular": "அறுவைசிகிச்சை",
+        "tamil_plural": "அறுவைசிகிச்சைகள்",
+        "gender": "Feminine",
+        "image_url": "https://images.unsplash.com/photo-1579154491781-5e199df316aa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHN1cmdlcnl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "english_singular": "a Passport",
+        "english_plural": "Passports",
+        "german_singular": "der Reisepass",
+        "german_plural": "die Reisepässe",
+        "tamil_singular": "பாஸ்போர்ட்",
+        "tamil_plural": "பாஸ்போர்ட்கள்",
+        "gender": "Masculine",
+        "image_url": "https://images.unsplash.com/photo-1561121864-3e4031788fdd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBhc3Nwb3J0fGVufDB8fDB8fHww"
+    },
+    {
+        "english_singular": "a Bag",
+        "english_plural": "Bags",
+        "german_singular": "die Tasche",
+        "german_plural": "die Taschen",
+        "tamil_singular": "பை",
+        "tamil_plural": "பைகள்",
+        "gender": "Feminine",
+        "image_url": "https://plus.unsplash.com/premium_photo-1671028547420-a541b5a1243e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fFRhc2NoZXxlbnwwfHwwfHx8MA%3D%3D"
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 ]
